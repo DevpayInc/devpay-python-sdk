@@ -20,7 +20,7 @@ A Python SDK for Devpay Payment Gateway Get your API Keys at https://devpay.io
 
 ## Integration
 ```
-pip install git+https://github.com/dev-pay/node-js-sdk.git
+pip install git+https://github.com/DevpayInc/devpay-python-sdk.git
 
 ```
 
